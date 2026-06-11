@@ -1,10 +1,10 @@
 ## Hi there 👋
-Hii 👋 I'm abc
+Hii 👋 I'm Tanav
 
 ## 👩‍💻 About Me
 - 🎓  Computer Science & Engineering  
-- 🌱 Currently exploring *Cybersecurity, **Machine Learning, and **Quantum Computing*  
-- 💻 Skilled in *C++, HTML, CSS*  
+- 🌱 Currently exploring *Cybersecurity, **Internet of things, and **Blockchain*  
+- 💻 Skilled in *Python, HTML, CSS*  
 - 📊 Passionate about Research & Development  
 
 ---
